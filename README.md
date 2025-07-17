@@ -26,6 +26,5 @@ Feel free to explore my work or reach out if you need help with anything!
 ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   
     
-Need something done? Hit me up! Maybe I'll be able to help you.
 
 ![Metrics](/github-metrics.svg)
