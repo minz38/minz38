@@ -24,10 +24,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          # plugin_achievements: yes
+          # plugin_achievements_display: compact
+          # plugin_achievements_secrets: yes
+          # plugin_achievements_threshold: C
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
@@ -48,16 +48,11 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_threshold: 5%
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
-          plugin_sponsors_title: Sponsor Me!
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
