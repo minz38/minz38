@@ -27,4 +27,4 @@ Feel free to explore my work or reach out if you need help with anything!
   
     
 
-![Metrics](/github-metrics.svg)
+
